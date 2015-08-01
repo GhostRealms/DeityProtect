@@ -1,0 +1,30 @@
+conf: 1
+conf2:
+- some
+- values
+lang:
+  prefix: '&7[Realms] &f'
+  exception_messages:
+    block_break: '&cYou cannot break blocks here!'
+    block_place: '&cYou cannot place blocks here!'
+    sign_edit: '&cYou cannot edit a sign here!'
+    enter: '&cAccess Forbidden!'
+    bucket_empty: '&cYou cannot empty your bucket here!'
+    bucket_fill: '&cFill that bucket elsewhere eh'
+    use:
+      door: '&cYou cant enter.'
+      button: '&cNo pressy!'
+      lever: '&cSTOP! Dont hit the magic switch?!?!'
+      furnace: '&cLooks like the furnace aint working, doc!'
+      bed: '&cYou cannot sleep here?!'
+      pressure_plate: '&cGet offa me eh'
+      workbench: '&cNo craft for you.'
+      trap_door: '&cITS A TRAPPPPPPPP!'
+      dispenser: '&cI dont wanna give you anything'
+      note_block: '&cYou cannot use that here!'
+      jukebox: '&cYou cannot use that here!'
+      boat: '&cYou cannot use that here!'
+      minecart: '&cYou cannot use that here!'
+      tripwire: '&cI saved you, dont trip!'
+      enderpearl: '&cno enderperlz 4 u'
+    pvp: '&cYou cannot fight here!'
