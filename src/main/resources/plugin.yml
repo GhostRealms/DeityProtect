@@ -1,8 +1,9 @@
-name: DeityProtect
-main: DeityProtect
+name: GhostProtect
+main: net.ghostrealms.protect.DeityProtect
 version: 12.08.20
 language: english.yml
-author: vanZeben
+author: GhostRealms
+authors: [Rmarmorstein, vanZeben]
 website: http://dev.bukkit.org/server-mods/deityprotect
 depend: [DeityAPI]
 commands:
